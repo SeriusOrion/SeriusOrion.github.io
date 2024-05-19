@@ -15,7 +15,7 @@ I'm a student with a strong interest in data science and its applications in var
 
 ## Education
 
-- Bachelors Degree in Data Science and Applications, IIT Madras (Expected Year of Graduation)
+- Bachelors Degree in Data Science and Applications, IIT Madras (2027)
 
 ## Skills
 
