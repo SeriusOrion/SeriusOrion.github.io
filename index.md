@@ -1,6 +1,7 @@
-# Shreya Kumari's Portfolio
+# Shreya Kumari
 
-Welcome to my portfolio! I'm Shreya Kumari, a passionate student currently pursuing my Bachelors Degree in Data Science and Applications from IIT Madras. I'm based in Chennai, India, and I'm excited to share my journey and projects with you.
+Welcome to my portfolio! 
+I'm Shreya Kumari, a passionate student currently pursuing my Bachelors Degree in Data Science and Applications from IIT Madras. I'm based in Chennai, India, and I'm excited to share my journey and projects with you.
 
 ## About Me
 
